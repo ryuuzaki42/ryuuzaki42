@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **ryuuzaki42/ryuuzaki42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there, I'm João, from Brazil 🇧🇷.
+
+I'm currently learning: <strong>Computer Vision</strong>, <strong>Python</strong> and <strong>Artificial intelligence</strong></br>
+I’m looking to collaborate on open-source projects</br>
+Ask me about:  <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</strong> ,<strong>GNU/Linux</strong> and other things.</br>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao42lbatista@gmail.com) &emsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryuuzaki42)
+
+<div align="left">
+    <a href="https://github.com/ryuuzaki42">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/> &emsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=7&theme=dark"/>
+</div>
