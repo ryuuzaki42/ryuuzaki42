@@ -19,10 +19,10 @@ Hello there, I'm João, from Brazil 🇧🇷.
 
 I'm currently learning: <strong>Computer Vision</strong>, <strong>Python</strong> and <strong>Artificial intelligence</strong></br>
 I’m looking to collaborate on open-source projects</br>
-Ask me about:  <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</strong> ,<strong>GNU/Linux</strong> and other things.</br>
+Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</strong> ,<strong>GNU/Linux</strong> and other things.</br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao42lbatista@gmail.com) &emsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryuuzaki42)
+&emsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao42lbatista@gmail.com)
+&emsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryuuzaki42)
 
 <div align="left">
     <a href="https://github.com/ryuuzaki42">
