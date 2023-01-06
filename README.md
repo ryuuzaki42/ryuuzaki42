@@ -24,8 +24,5 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 &emsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao42lbatista@gmail.com)
 &emsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryuuzaki42)
 
-<div align="left">
-    <a href="https://github.com/ryuuzaki42">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/> &emsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=7&theme=dark"/>
-</div>
+| <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="ryuuzaki42's github stats" /></a> | <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=10&theme=merko&hide_border=true" /></a> |
+| ------------- | ------------- |
