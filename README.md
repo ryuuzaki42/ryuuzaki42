@@ -31,11 +31,12 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | -- | -- |
 | Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
-| Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
+| IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
+| Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 
 | Slackware packages: | https://t.me/SlackwarePackages |
 | -- | -- |
 
-| App Image Backup: | https://t.me/AppImageBkp |
+| AppImage backup: | https://t.me/AppImageBkp |
 | -- | -- |
