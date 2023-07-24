@@ -34,6 +34,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
+| asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
 
 | Slackware packages: | https://t.me/SlackwarePackages |
 | -- | -- |
