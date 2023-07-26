@@ -32,6 +32,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
 | IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
+| Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 | asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
