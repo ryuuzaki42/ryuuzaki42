@@ -21,16 +21,15 @@ I'm currently learning: <strong>Computer Vision</strong>, <strong>Python</strong
 I’m looking to collaborate on open-source projects</br>
 Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</strong> ,<strong>GNU/Linux</strong> and other things.</br>
 
-&emsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao42lbatista@gmail.com)
-&emsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryuuzaki42)
-
 | <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="ryuuzaki42's github stats" /></a> | <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=10&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+---
 | Application | AppImage repository |
 | -- | -- |
 | Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
+| FocusWriter | https://github.com/ryuuzaki42/FocusWriter_AppImage |
 | IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
 | Maestral | https://github.com/ryuuzaki42/Maestral_AppImage |
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
@@ -39,6 +38,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 | asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
 
+---
 | Slackware packages: | https://t.me/SlackwarePackages |
 | -- | -- |
 
