@@ -24,7 +24,6 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="ryuuzaki42's github stats" /></a> | <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=10&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
----
 | Application | AppImage repository |
 | -- | -- |
 | Authy | https://github.com/ryuuzaki42/Authy_AppImage |
@@ -36,9 +35,9 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
+| Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
 | asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
 
----
 | Slackware packages: | https://t.me/SlackwarePackages |
 | -- | -- |
 
