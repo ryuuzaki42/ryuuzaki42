@@ -37,15 +37,15 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 -->
 
 ### Telegram Groups
-
-| Slackware packages | https://t.me/SlackwarePackages |
-| -- | -- |
-| AppImage backup | https://t.me/AppImageBkp |
+<table>
+    <tr> <td> Slackware packages </td> <td> https://t.me/SlackwarePackages </td> </tr>
+    <tr> <td> AppImage backup </td> <td> https://t.me/AppImageBkp </td> </tr>
+</table>
 
 ### Programs in Appimage
-
 | Application | Repository |
 | -- | -- |
+| asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
 | Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
 | FocusWriter | https://github.com/ryuuzaki42/FocusWriter_AppImage |
@@ -56,4 +56,3 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
-| asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
