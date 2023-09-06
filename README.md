@@ -17,14 +17,17 @@ Here are some ideas to get you started:
 
 Hello there, I'm João, from Brazil 🇧🇷.
 
-I'm currently learning: <strong>Computer Vision</strong>, <strong>Python</strong> and <strong>Artificial intelligence</strong></br>
+I'm currently learning: <strong>Python</strong>, <strong>Computer Vision</strong> and <strong>Artificial intelligence</strong></br>
 I’m looking to collaborate on open-source projects</br>
 Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</strong> ,<strong>GNU/Linux</strong> and other things.</br>
 
-| <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="ryuuzaki42's github stats" /></a> | <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=10&theme=merko&hide_border=true" /></a> |
+<a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="ryuuzaki42's github stats" /></a>
+<a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=10&theme=merko&hide_border=true" /></a>
 
 <!--
+| <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuzaki42&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="ryuuzaki42's github stats" /></a> | <a href="https://github.com/ryuuzaki42"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzaki42&layout=compact&langs_count=10&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 ---
 <table>
     <tr> <td colspan="2" align="center"> <b> Telegram Groups <b> </td> </tr>
