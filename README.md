@@ -52,6 +52,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
 | Maestral | https://github.com/ryuuzaki42/Maestral_AppImage |
 | MasterPDFEditor | https://github.com/ryuuzaki42/MasterPDFEditor_AppImage |
+| MasterPDFEditor 4 | https://github.com/ryuuzaki42/MasterPDFEditor_AppImage_4 |
 | MComix | https://github.com/ryuuzaki42/MComix_AppImage |
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
 | Syncplay | https://github.com/ryuuzaki42/Syncplay_AppImage |
