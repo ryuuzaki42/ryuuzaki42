@@ -49,6 +49,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
 | FocusWriter | https://github.com/ryuuzaki42/FocusWriter_AppImage |
+| FocusWriter last | https://github.com/ryuuzaki42/FocusWriter_AppImage_last |
 | IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
 | Maestral | https://github.com/ryuuzaki42/Maestral_AppImage |
 | MasterPDFEditor | https://github.com/ryuuzaki42/MasterPDFEditor_AppImage |
