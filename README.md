@@ -62,3 +62,6 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
+
+#### Run a AppImage using local configuration (place of the AppImage file):
+https://github.com/ryuuzaki42/02_Scripts_Slackware/blob/main/run_AppImage_local_JBs.sh
