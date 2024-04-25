@@ -57,6 +57,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | MasterPDFEditor 4 | https://github.com/ryuuzaki42/MasterPDFEditor_AppImage_4 |
 | MComix | https://github.com/ryuuzaki42/MComix_AppImage |
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
+| PyCharm-community | https://github.com/ryuuzaki42/PyCharm_community_AppImage |
 | Syncplay | https://github.com/ryuuzaki42/Syncplay_AppImage |
 | Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
