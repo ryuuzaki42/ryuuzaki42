@@ -65,7 +65,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
 
-#### * Others programs or versions with more support, for examples with Glibc>=2.34 or QT6 inside. Check the releases:
+#### * Others programs or versions with more support, for example with Glibc>=2.34 or QT6 inside. Check the releases:
 https://github.com/ryuuzaki42/AppImage_Full_ArchImage
 
 #### * Examples of AppImage shortcuts:
