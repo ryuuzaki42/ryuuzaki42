@@ -65,8 +65,11 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
 
-#### Examples of AppImage shortcuts:
+#### * Others programs or versions with more support, for examples with Glibc>=2.34 or QT6 inside. Check the releases:
+https://github.com/ryuuzaki42/AppImage_Full_ArchImage
+
+#### * Examples of AppImage shortcuts:
 https://github.com/ryuuzaki42/04_AppImage_shortcut_desktop
 
-#### Run the AppImage using local configuration (place where is the AppImage file):
+#### * Run the AppImage using local configuration (place where is the AppImage file):
 https://github.com/ryuuzaki42/02_Scripts_Slackware/blob/main/run_AppImage_local_JBs.sh
