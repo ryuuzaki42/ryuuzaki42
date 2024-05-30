@@ -71,5 +71,5 @@ https://github.com/ryuuzaki42/AppImage_Full_ArchImage
 #### * Examples of AppImage shortcuts:
 https://github.com/ryuuzaki42/04_AppImage_shortcut_desktop
 
-#### * Run the AppImage using local configuration (place where is the AppImage file):
-https://github.com/ryuuzaki42/02_Scripts_Slackware/blob/main/run_AppImage_local_JBs.sh
+#### * Run the AppImage using local configuration (place where is the AppImage file) and others, see the options:
+https://github.com/ryuuzaki42/02_Scripts_Slackware/blob/main/run_AppImage_JBs.sh
