@@ -39,7 +39,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 ### Telegram Groups
 <table>
     <tr> <td> Slackware packages </td> <td> https://t.me/SlackwarePackages </td> </tr>
-    <tr> <td> AppImage backup </td> <td> https://t.me/AppImageBkp </td> </tr>
+    <tr> <td> AppImage backup </td> <td> https://t.me/AppImageBackup </td> </tr>
 </table>
 
 ### Programs in Appimage
