@@ -49,6 +49,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 | Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 | Autosubsync | https://github.com/ryuuzaki42/Autosubsync_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
+| FFsubsync | https://github.com/ryuuzaki42/FFsubsync_AppImage |
 | FocusWriter | https://github.com/ryuuzaki42/FocusWriter_AppImage |
 | FocusWriter last version | https://github.com/ryuuzaki42/FocusWriter_AppImage_last_version |
 | IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
