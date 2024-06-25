@@ -36,11 +36,7 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 </table>
 -->
 
-### Telegram Groups
-<table>
-    <tr> <td> Slackware packages </td> <td> https://t.me/SlackwarePackages </td> </tr>
-    <tr> <td> AppImage backup </td> <td> https://t.me/AppImageBackup </td> </tr>
-</table>
+### [Telegram Groups](https://github.com/ryuuzaki42/ryuuzaki42/blob/main/Others_info.md#telegram-groups)
 
 ### Programs in Appimage
 | Application | Repository |
