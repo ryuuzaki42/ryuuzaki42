@@ -1,9 +1,11 @@
-
+---
 ### Telegram Groups
 <table>
     <tr> <td> Slackware packages </td> <td> https://t.me/SlackwarePackages </td> </tr>
     <tr> <td> AppImage backup </td> <td> https://t.me/AppImageBackup </td> </tr>
 </table>
+
+---
 
 ### Programs in Appimage
 | Application | Repository |
@@ -36,5 +38,7 @@ https://github.com/ryuuzaki42/AppImage_Full_ArchImage
 #### * Examples of AppImage shortcuts:
 https://github.com/ryuuzaki42/04_AppImage_shortcut_desktop
 
-#### * Run the AppImage using local configuration (place where is the AppImage file) and others, see the options:
+#### * Run the AppImage using local a configuration (place where is the AppImage file) and others, see the options:
 https://github.com/ryuuzaki42/02_Scripts_Slackware/blob/main/run_AppImage_JBs.sh
+
+---
