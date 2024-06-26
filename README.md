@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there, I'm João, from Brazil 🇧🇷.
+Hello there, I'm João Batista, from Brazil 🇧🇷.
 
 I'm currently learning: <strong>Python</strong>, <strong>Computer Vision</strong> and <strong>Artificial intelligence</strong></br>
 I’m looking to collaborate on open-source projects</br>
@@ -36,6 +36,6 @@ Ask me about: <strong>C</strong>, <strong>Java</strong>, <strong>Shell Script</s
 </table>
 -->
 
-- ### [Telegram Groups](https://github.com/ryuuzaki42/ryuuzaki42/blob/main/Others_info.md#telegram-groups)
+- ### [Telegram Groups](https://github.com/ryuuzaki42/ryuuzaki42/blob/main/other_info.md#telegram-groups)
 
-- ### [Programs in Appimage](https://github.com/ryuuzaki42/ryuuzaki42/blob/main/Others_info.md#programs-in-appimage)
+- ### [Programs in AppImage](https://github.com/ryuuzaki42/ryuuzaki42/blob/main/other_info.md#programs-in-appimage)
