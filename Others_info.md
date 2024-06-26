@@ -6,8 +6,7 @@
 </table>
 
 ---
-
-### Programs in Appimage
+### Programs in AppImage
 | Application | Repository |
 | -- | -- |
 | asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
@@ -40,5 +39,3 @@ https://github.com/ryuuzaki42/04_AppImage_shortcut_desktop
 
 #### * Run the AppImage using local a configuration (place where is the AppImage file) and others, see the options:
 https://github.com/ryuuzaki42/02_Scripts_Slackware/blob/main/run_AppImage_JBs.sh
-
----
