@@ -25,6 +25,7 @@
 | MComix | https://github.com/ryuuzaki42/MComix_AppImage |
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
 | PyCharm-community | https://github.com/ryuuzaki42/PyCharm_community_AppImage |
+| SmartGit | https://github.com/ryuuzaki42/SmartGit_AppImage |
 | Syncplay | https://github.com/ryuuzaki42/Syncplay_AppImage |
 | Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
