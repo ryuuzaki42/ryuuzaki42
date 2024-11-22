@@ -26,6 +26,7 @@
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
 | PyCharm-community-edition | https://github.com/ryuuzaki42/PyCharm-community-edition_AppImage |
 | SmartGit | https://github.com/ryuuzaki42/SmartGit_AppImage |
+| SmartSynchronize | https://github.com/ryuuzaki42/SmartSynchronize_AppImage |
 | Syncplay | https://github.com/ryuuzaki42/Syncplay_AppImage |
 | Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
