@@ -29,12 +29,15 @@
 | SmartSynchronize | https://github.com/ryuuzaki42/SmartSynchronize_AppImage |
 | Solaar | https://github.com/ryuuzaki42/Solaar_AppImage |
 | Syncplay | https://github.com/ryuuzaki42/Syncplay_AppImage |
+| Syncthing | https://github.com/ryuuzaki42/Syncthing_AppImage |
 | Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
 
-#### * Others programs or versions with more support, for example with Glibc>=2.34 or QT6 inside. Check the releases:
+#### * Others programs or versions with more support, for example with Glibc>=2.34 and/or QT6 inside and/or some patch. 
+Like: FocusWriter, Guvcview, KDiff3, Xournal++, qBittorrent. Check the releases:
+
 https://github.com/ryuuzaki42/AppImage_Full_ArchImage
 
 #### * Examples of AppImage shortcuts:
