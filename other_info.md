@@ -25,7 +25,7 @@
 | MasterPDFEditor 4 | https://github.com/ryuuzaki42/MasterPDFEditor_AppImage_4 |
 | MComix | https://github.com/ryuuzaki42/MComix_AppImage |
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
-| PyCharm-community-edition | https://github.com/ryuuzaki42/PyCharm-community-edition_AppImage |
+| PyCharm | https://github.com/ryuuzaki42/PyCharm_AppImage |
 | SmartGit | https://github.com/ryuuzaki42/SmartGit_AppImage |
 | SmartSynchronize | https://github.com/ryuuzaki42/SmartSynchronize_AppImage |
 | Solaar | https://github.com/ryuuzaki42/Solaar_AppImage |
