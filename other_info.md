@@ -31,6 +31,7 @@
 | Solaar | https://github.com/ryuuzaki42/Solaar_AppImage |
 | Syncplay | https://github.com/ryuuzaki42/Syncplay_AppImage |
 | Syncthing | https://github.com/ryuuzaki42/Syncthing_AppImage |
+| TrID | https://github.com/ryuuzaki42/TrID_AppImage |
 | Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
