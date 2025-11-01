@@ -29,6 +29,7 @@
 | SmartGit | https://github.com/ryuuzaki42/SmartGit_AppImage |
 | SmartSynchronize | https://github.com/ryuuzaki42/SmartSynchronize_AppImage |
 | Solaar | https://github.com/ryuuzaki42/Solaar_AppImage |
+| spotDL | https://github.com/ryuuzaki42/spotDL_AppImage |
 | Syncplay | https://github.com/ryuuzaki42/Syncplay_AppImage |
 | Syncthing | https://github.com/ryuuzaki42/Syncthing_AppImage |
 | TrID | https://github.com/ryuuzaki42/TrID_AppImage |
