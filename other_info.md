@@ -36,6 +36,7 @@
 | Ventoy | https://github.com/ryuuzaki42/Ventoy_AppImage |
 | WinRAR | https://github.com/ryuuzaki42/WinRAR_AppImage |
 | Wireshark | https://github.com/ryuuzaki42/Wireshark_AppImage |
+| witr | https://github.com/ryuuzaki42/witr_AppImage |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
 
 #### * Others programs or versions with more support, for example with Glibc>=2.34 and/or QT6 inside and/or some patch. 
