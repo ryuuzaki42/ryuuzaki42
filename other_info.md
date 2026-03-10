@@ -45,7 +45,7 @@ Like: FocusWriter, Guvcview, KDiff3, Xournal++, qBittorrent. Check the releases:
 https://github.com/ryuuzaki42/AppImage_Full_ArchImage
 
 #### * Examples of AppImage shortcuts:
-https://github.com/ryuuzaki42/04_AppImage_shortcut_desktop
+https://github.com/ryuuzaki42/04_AppImage_Shortcut_Desktop
 
 #### * Run the AppImage using local a configuration (place where is the AppImage file) and others, see the options:
-https://github.com/ryuuzaki42/02_Scripts_Slackware/blob/main/run_AppImage_JBs.sh
+https://github.com/ryuuzaki42/02_Scripts_Linux/blob/main/run_AppImage_JBs.sh
