@@ -17,6 +17,7 @@
 | FFsubsync | https://github.com/ryuuzaki42/FFsubsync_AppImage |
 | FocusWriter | https://github.com/ryuuzaki42/FocusWriter_AppImage |
 | FocusWriter last version | https://github.com/ryuuzaki42/FocusWriter_AppImage_last_version |
+| Gromit-MPX | https://github.com/ryuuzaki42/Gromit-MPX_AppImage |
 | IrfanView | https://github.com/ryuuzaki42/IrfanView_AppImage |
 | KDiff3 | https://github.com/ryuuzaki42/KDiff3_AppImage |
 | KDiff3 last version | https://github.com/ryuuzaki42/KDiff3_AppImage_last_version |
