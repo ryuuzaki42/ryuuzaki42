@@ -40,7 +40,7 @@
 | witr | https://github.com/ryuuzaki42/witr_AppImage |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
 
-#### * Others programs or versions with more support, for example with Glibc>=2.34 and/or QT6 inside and/or some patch. 
+#### * Others programs or versions with more support, for example with Glibc>=2.34 and/or QT6 inside and/or some patch
 Like: FocusWriter, Guvcview, KDiff3, Xournal++, qBittorrent. Check the releases:
 
 https://github.com/ryuuzaki42/AppImage_Full_ArchImage
