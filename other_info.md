@@ -14,6 +14,7 @@
 | Autosubsync | https://github.com/ryuuzaki42/Autosubsync_AppImage |
 | balenaEtcher | https://github.com/ryuuzaki42/balenaEtcher_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
+| Deffy | https://github.com/ryuuzaki42/Deffy_AppImage |
 | FFsubsync | https://github.com/ryuuzaki42/FFsubsync_AppImage |
 | FocusWriter | https://github.com/ryuuzaki42/FocusWriter_AppImage |
 | FocusWriter last version | https://github.com/ryuuzaki42/FocusWriter_AppImage_last_version |
