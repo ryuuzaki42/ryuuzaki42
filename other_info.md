@@ -28,6 +28,7 @@
 | MComix | https://github.com/ryuuzaki42/MComix_AppImage |
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
 | PyCharm | https://github.com/ryuuzaki42/PyCharm_AppImage |
+| sacd_extract | https://github.com/ryuuzaki42/sacd_extract_AppImage |
 | SmartGit | https://github.com/ryuuzaki42/SmartGit_AppImage |
 | SmartSynchronize | https://github.com/ryuuzaki42/SmartSynchronize_AppImage |
 | Solaar | https://github.com/ryuuzaki42/Solaar_AppImage |
