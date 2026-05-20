@@ -26,6 +26,7 @@
 | MasterPDFEditor | https://github.com/ryuuzaki42/MasterPDFEditor_AppImage |
 | MasterPDFEditor 4 | https://github.com/ryuuzaki42/MasterPDFEditor_AppImage_4 |
 | MComix | https://github.com/ryuuzaki42/MComix_AppImage |
+| NetBeans | https://github.com/ryuuzaki42/NetBeans_AppImage |
 | Opera | https://github.com/ryuuzaki42/Opera_AppImage |
 | PyCharm | https://github.com/ryuuzaki42/PyCharm_AppImage |
 | sacd_extract | https://github.com/ryuuzaki42/sacd_extract_AppImage |
