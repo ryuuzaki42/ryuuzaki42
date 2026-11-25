@@ -48,8 +48,8 @@
 ### - In Test
 | Application | Repository |
 | -- | -- |
-| Virtual Volumes View | https://github.com/ryuuzaki42/Virtual_Volumes_View_AppImage |
 | BulkFileChanger | https://github.com/ryuuzaki42/BulkFileChanger_AppImage |
+| Virtual Volumes View | https://github.com/ryuuzaki42/Virtual_Volumes_View_AppImage |
 
 ---
 ### - Deprecated
