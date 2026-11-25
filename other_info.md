@@ -10,7 +10,6 @@
 | Application | Repository |
 | -- | -- |
 | asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
-| Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 | Autosubsync | https://github.com/ryuuzaki42/Autosubsync_AppImage |
 | balenaEtcher | https://github.com/ryuuzaki42/balenaEtcher_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
@@ -51,6 +50,12 @@
 | -- | -- |
 | Virtual Volumes View | https://github.com/ryuuzaki42/Virtual_Volumes_View_AppImage |
 | BulkFileChanger | https://github.com/ryuuzaki42/BulkFileChanger_AppImage |
+
+---
+### - Deprecated
+| Application | Repository |
+| -- | -- |
+| Authy | https://github.com/ryuuzaki42/Authy_AppImage |
 
 #### * Others programs or versions with more support, for example with Glibc>=2.34 and/or QT6 inside and/or some patch
 Like: FocusWriter, Guvcview, KDiff3, Xournal++, qBittorrent. Check the releases:
