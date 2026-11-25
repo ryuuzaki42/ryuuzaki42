@@ -11,7 +11,6 @@
 | -- | -- |
 | asciiquarium | https://github.com/ryuuzaki42/asciiquarium_AppImage |
 | Autosubsync | https://github.com/ryuuzaki42/Autosubsync_AppImage |
-| balenaEtcher | https://github.com/ryuuzaki42/balenaEtcher_AppImage |
 | Calibre | https://github.com/ryuuzaki42/Calibre_AppImage |
 | Deffy | https://github.com/ryuuzaki42/Deffy_AppImage |
 | DisplayCAL-py3 | https://github.com/ryuuzaki42/DisplayCAL-py3_AppImage |
@@ -48,6 +47,7 @@
 ### - In Test
 | Application | Repository |
 | -- | -- |
+| balenaEtcher | https://github.com/ryuuzaki42/balenaEtcher_AppImage |
 | BulkFileChanger | https://github.com/ryuuzaki42/BulkFileChanger_AppImage |
 | Virtual Volumes View | https://github.com/ryuuzaki42/Virtual_Volumes_View_AppImage |
 
