@@ -45,6 +45,13 @@
 | xlaserpointer | https://github.com/ryuuzaki42/xlaserpointer |
 | Zotero | https://github.com/ryuuzaki42/Zotero_AppImage |
 
+---
+### - In Test
+| Application | Repository |
+| -- | -- |
+| Virtual Volumes View | https://github.com/ryuuzaki42/Virtual_Volumes_View_AppImage |
+| BulkFileChanger | https://github.com/ryuuzaki42/BulkFileChanger_AppImage |
+
 #### * Others programs or versions with more support, for example with Glibc>=2.34 and/or QT6 inside and/or some patch
 Like: FocusWriter, Guvcview, KDiff3, Xournal++, qBittorrent. Check the releases:
 
