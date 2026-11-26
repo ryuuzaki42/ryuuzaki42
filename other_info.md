@@ -49,6 +49,7 @@
 | -- | -- |
 | balenaEtcher | https://github.com/ryuuzaki42/balenaEtcher_AppImage |
 | BulkFileChanger | https://github.com/ryuuzaki42/BulkFileChanger_AppImage |
+| Czur_Scanner | https://github.com/ryuuzaki42/Czur_Scanner_AppImage |
 | Virtual Volumes View | https://github.com/ryuuzaki42/Virtual_Volumes_View_AppImage |
 
 ---
